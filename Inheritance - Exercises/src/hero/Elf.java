@@ -1,4 +1,4 @@
-package Players_and_Monsters;
+package hero;
 
 public class Elf extends Hero{
 

@@ -1,4 +1,4 @@
-package Players_and_Monsters;
+package hero;
 
 public class Hero {
     private String username;
@@ -16,11 +16,12 @@ public class Hero {
     public int getLevel() {
         return level;
     }
+
     @Override
     public String toString() {
         return String.format("Type: %s Username: %s Level: %s",
-                this.getClass().getName().trim(),
-                this.getUsername().trim(),
-                this.getLevel()).trim();
+                this.getClass().getName(),
+                this.getUsername(),
+                this.getLevel());
     }
 }
