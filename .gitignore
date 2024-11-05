@@ -1,24 +1,21 @@
-# Compiled class file
-*.class
+# Ignore IntelliJ project-specific files
+.idea/**/workspace.xml
+.idea/**/usage.statistics.xml
+.idea/**/tasks.xml
+.idea/**/shelf/
+.idea/**/libraries/
 
-# Log file
-*.log
+# Ignore .iml files
+*.iml
 
-# BlueJ files
-*.ctxt
+# Ignore build directories
+/out/
+target/
+build/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
+#exclude zip files
 *.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*

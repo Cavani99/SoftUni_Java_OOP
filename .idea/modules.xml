@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Exercises/Encapsulation - Exercises.iml" filepath="$PROJECT_DIR$/Encapsulation - Exercises/Encapsulation - Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Lab/Encapsulation - Lab.iml" filepath="$PROJECT_DIR$/Encapsulation - Lab/Encapsulation - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Exercises/Inheritance - Exercises.iml" filepath="$PROJECT_DIR$/Inheritance - Exercises/Inheritance - Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Lab/Inheritance - Lab.iml" filepath="$PROJECT_DIR$/Inheritance - Lab/Inheritance - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces and Abstraction - Exercises/Interfaces and Abstraction - Exercises.iml" filepath="$PROJECT_DIR$/Interfaces and Abstraction - Exercises/Interfaces and Abstraction - Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces and Abstraction - Lab/Interfaces and Abstraction - Lab.iml" filepath="$PROJECT_DIR$/Interfaces and Abstraction - Lab/Interfaces and Abstraction - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism - Lab/Polymorphism - Lab.iml" filepath="$PROJECT_DIR$/Polymorphism - Lab/Polymorphism - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoftUni_Java_OOP.iml" filepath="$PROJECT_DIR$/.idea/SoftUni_Java_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Working with Abstraction - Exercise/Working with Abstraction - Exercise.iml" filepath="$PROJECT_DIR$/Working with Abstraction - Exercise/Working with Abstraction - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Working with Abstraction - Lab/Working with Abstraction - Lab.iml" filepath="$PROJECT_DIR$/Working with Abstraction - Lab/Working with Abstraction - Lab.iml" />
+    </modules>
+  </component>
+</project>
