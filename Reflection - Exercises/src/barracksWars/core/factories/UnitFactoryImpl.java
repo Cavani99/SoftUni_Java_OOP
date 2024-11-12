@@ -10,8 +10,8 @@ public class UnitFactoryImpl implements UnitFactory {
 			"barracksWars.models.units.";
 
 	@Override
-	public Unit createUnit(String unitType) throws ExecutionControl.NotImplementedException {
+	public Unit createUnit(String unitType) {
 		// TODO: implement for problem 3
-		throw new ExecutionControl.NotImplementedException("message");
+        return SimpleFactory.createUnit(unitType);
 	}
 }
