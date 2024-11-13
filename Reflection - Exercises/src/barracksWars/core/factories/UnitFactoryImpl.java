@@ -11,7 +11,6 @@ public class UnitFactoryImpl implements UnitFactory {
 
 	@Override
 	public Unit createUnit(String unitType) {
-		// TODO: implement for problem 3
         return SimpleFactory.createUnit(unitType);
 	}
 }
