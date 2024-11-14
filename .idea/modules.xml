@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Encapsulation - Exercises/Encapsulation - Exercises.iml" filepath="$PROJECT_DIR$/Encapsulation - Exercises/Encapsulation - Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation - Lab/Encapsulation - Lab.iml" filepath="$PROJECT_DIR$/Encapsulation - Lab/Encapsulation - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions and Error Handling - Lab/Exceptions and Error Handling - Lab.iml" filepath="$PROJECT_DIR$/Exceptions and Error Handling - Lab/Exceptions and Error Handling - Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance - Exercises/Inheritance - Exercises.iml" filepath="$PROJECT_DIR$/Inheritance - Exercises/Inheritance - Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance - Lab/Inheritance - Lab.iml" filepath="$PROJECT_DIR$/Inheritance - Lab/Inheritance - Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces and Abstraction - Exercises/Interfaces and Abstraction - Exercises.iml" filepath="$PROJECT_DIR$/Interfaces and Abstraction - Exercises/Interfaces and Abstraction - Exercises.iml" />
